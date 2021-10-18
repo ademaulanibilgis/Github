@@ -21,7 +21,9 @@ jika sudah sigin akan muncul tampilan seperti ini
 -kemudian klik kanan pada mouse dan pilih "Git bash here"
 -[gambar 6](screenshot/ss6.png)<p>
 -kemudian copy link HTTPS github kalian
+
 > git clone 'link Github'
+
 -tekan enter pada keyboard
 kemudian pilih file README.md di file kalian
 -klik kanan pada mouse, lalu pilih open with 'visual studio code'
@@ -30,7 +32,9 @@ kemudian pilih file README.md di file kalian
 setelah terbuka Visual code studio, pastikan kalian melakukan koding di file README.md
 -edit file README.md, lalu jangan lupa di save (ctrl+s)
 -setelah itu buka git yang sebelumnya
+
 > git add README.md
 > git commit -m "Dekripsi"
 > git push -u origin main
+
 -selesai
