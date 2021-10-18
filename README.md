@@ -29,7 +29,7 @@ kemudian pilih file README.md di file kalian
 -klik kanan pada mouse, lalu pilih open with 'visual studio code'
 -jangan lupa untuk menginstal [vcs](https://code.visualstudio.com)
 -[gambar 7](screenshot/ss7.png)
-setelah terbuka Visual code studio, pastikan kalian melakukan koding di file README.md
+ setelah terbuka Visual code studio, pastikan kalian melakukan koding di file README.md
 -edit file README.md, lalu jangan lupa di save (ctrl+s)
 -setelah itu buka git yang sebelumnya
 
